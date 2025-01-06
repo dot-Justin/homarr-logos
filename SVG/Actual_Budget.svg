@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 622 622">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #24252b;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 29px;
+      }
+    </style>
+  </defs>
+  <g id="Actual_Budget">
+    <circle class="cls-1" cx="311" cy="311" r="310"/>
+    <line class="cls-2" x1="165.32" y1="463.89" x2="328.56" y2="120.23"/>
+    <line class="cls-2" x1="481.99" y1="441.8" x2="328.56" y2="120.23"/>
+    <line class="cls-2" x1="484.44" y1="315.38" x2="165.32" y2="463.89"/>
+    <line class="cls-2" x1="402.21" y1="274.88" x2="155.5" y2="390.25"/>
+  </g>
+</svg>
